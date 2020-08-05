@@ -1,0 +1,18 @@
+{
+  "name": "roboto-font",
+  "version": "1.0.0",
+  "description": "This Packacge installs the Roboto Font from Google locally with CSS + Font Files.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "npm",
+    "font",
+    "roboto",
+    "css"
+  ],
+  "author": "Baloralys",
+  "license": "MIT"
+}
