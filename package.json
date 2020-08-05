@@ -1,5 +1,5 @@
 {
-  "name": "roboto-font",
+  "name": "@baloralys/roboto-font",
   "version": "1.0.0",
   "description": "This Packacge installs the Roboto Font from Google locally with CSS + Font Files.",
   "main": "index.js",
